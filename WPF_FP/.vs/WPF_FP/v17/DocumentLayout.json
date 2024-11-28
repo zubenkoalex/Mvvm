@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\wpf_fp\\addperson.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\addperson.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\wpf_fp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\wpf_fp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\wpf_fp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\wpf_fp\\viewmodel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\viewmodel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\wpf_fp\\wpf_fp\\addperson.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\addperson.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\wpf_fp\\addperson.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\addperson.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\wpf_fp\\wpf_fp\\source\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\wpf_fp\\source\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{CF2AA320-EAEA-4F81-8E3F-4A4ADE845026}|WPF_FP\\WPF_FP.csproj|solutionrelative:wpf_fp\\source\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddPerson.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\WPF_FP\\AddPerson.xaml",
               "RelativeDocumentMoniker": "WPF_FP\\AddPerson.xaml",
@@ -124,26 +124,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\WPF_FP\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPF_FP\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\WPF_FP\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPF_FP\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAswEAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T10:38:43.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\WPF_FP\\ViewModel\\Person.cs",
               "RelativeDocumentMoniker": "WPF_FP\\ViewModel\\Person.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\WPF_FP\\ViewModel\\Person.cs",
-              "RelativeToolTip": "WPF_FP\\ViewModel\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\WPF_FP\\WPF_FP\\ViewModel\\Person.cs*",
+              "RelativeToolTip": "WPF_FP\\ViewModel\\Person.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T12:35:43.095Z",
               "EditorCaption": ""

@@ -1,0 +1,157 @@
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.exe
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.deps.json
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.runtimeconfig.json
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.pdb
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\App.g.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel_MarkupCompile.cache
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel_MarkupCompile.lref
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.g.resources
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.AssemblyInfoInputs.cache
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.AssemblyInfo.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.csproj.CoreCompileInputs.cache
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\refint\AirTravel.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.pdb
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.genruntimeconfig.cache
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\ref\AirTravel.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.csproj.AssemblyReference.cache
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.csproj.CopyComplete
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightAddEditWindow.g.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightAddEditWindow.baml
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\App.baml
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightUserWindow.g.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightUserWindow.baml
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\AddTicket.g.cs
+D:\ВКИ\6 семестр\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\AddTicket.baml
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.exe
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.deps.json
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.runtimeconfig.json
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\AirTravel.pdb
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\AddTicket.g.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightAddEditWindow.g.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightUserWindow.g.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel_MarkupCompile.cache
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel_MarkupCompile.lref
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\App.baml
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\AddTicket.baml
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightAddEditWindow.baml
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\FlightUserWindow.baml
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.g.resources
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.AssemblyInfo.cs
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.sourcelink.json
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.csproj.Up2Date
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\refint\AirTravel.dll
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.pdb
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\AirTravel.genruntimeconfig.cache
+C:\Users\Александр\Desktop\AirTravel\AirTravel\obj\Debug\net8.0-windows\ref\AirTravel.dll

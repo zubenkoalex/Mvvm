@@ -1,0 +1,20 @@
+﻿AirTravel
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Александр\Desktop\AirTravel — копия\AirTravel\obj\Debug\net8.0-windows\
+AirTravel
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Александр\Desktop\AirTravel — копия\AirTravel\App.xaml
+51868379846
+
+24-1588361516
+238839703353
+Views\AddTicket.xaml;Views\FlightAddEditWindow.xaml;Views\FlightUserWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;
+
+False
+

@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\addticket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\addticket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\models\\entities\\jettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\models\\entities\\jettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\flightaddeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\flightaddeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\airtravel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\airtravel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\models\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\models\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\models\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\models\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\addticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\addticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\flightaddeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\flightaddeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\viewmodels\\addticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\viewmodels\\addticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\viewmodels\\flightaddeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\viewmodels\\flightaddeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\viewmodels\\flightuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\viewmodels\\flightuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\views\\flightuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\views\\flightuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\airtravel \u2014 \u043A\u043E\u043F\u0438\u044F\\airtravel\\models\\entities\\comfortclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\AirTravel.csproj|solutionrelative:airtravel\\models\\entities\\comfortclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Database.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Models\\Database.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Database.cs",
+              "RelativeToolTip": "AirTravel\\Models\\Database.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswDcAAAC/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:43.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JetType.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\JetType.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Models\\Entities\\JetType.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\JetType.cs",
+              "RelativeToolTip": "AirTravel\\Models\\Entities\\JetType.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:43.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AirTravel.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\AirTravel.csproj",
+              "RelativeDocumentMoniker": "AirTravel\\AirTravel.csproj",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\AirTravel.csproj",
+              "RelativeToolTip": "AirTravel\\AirTravel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T18:55:43.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "AirTravel\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T18:55:44.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AirTravel\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTicket.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\AddTicket.xaml.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\AddTicket.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\AddTicket.xaml.cs",
+              "RelativeToolTip": "AirTravel\\Views\\AddTicket.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightAddEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\FlightAddEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\FlightAddEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\FlightAddEditWindow.xaml.cs",
+              "RelativeToolTip": "AirTravel\\Views\\FlightAddEditWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "AirTravel\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T18:55:44.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\App.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\App.xaml",
+              "RelativeToolTip": "AirTravel\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T18:55:43.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FlightUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\FlightUserViewModel.cs",
+              "RelativeDocumentMoniker": "AirTravel\\ViewModels\\FlightUserViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\FlightUserViewModel.cs",
+              "RelativeToolTip": "AirTravel\\ViewModels\\FlightUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "AirTravel\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "AirTravel\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlightAddEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\FlightAddEditViewModel.cs",
+              "RelativeDocumentMoniker": "AirTravel\\ViewModels\\FlightAddEditViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\FlightAddEditViewModel.cs",
+              "RelativeToolTip": "AirTravel\\ViewModels\\FlightAddEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddTicketViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\AddTicketViewModel.cs",
+              "RelativeDocumentMoniker": "AirTravel\\ViewModels\\AddTicketViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\AddTicketViewModel.cs",
+              "RelativeToolTip": "AirTravel\\ViewModels\\AddTicketViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FlightAddEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\FlightAddEditWindow.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\FlightAddEditWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\FlightAddEditWindow.xaml",
+              "RelativeToolTip": "AirTravel\\Views\\FlightAddEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T18:55:44.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ComfortClass.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\ComfortClass.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Models\\Entities\\ComfortClass.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\ComfortClass.cs",
+              "RelativeToolTip": "AirTravel\\Models\\Entities\\ComfortClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\Flight.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Models\\Entities\\Flight.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\Flight.cs",
+              "RelativeToolTip": "AirTravel\\Models\\Entities\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Models\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\Role.cs",
+              "RelativeToolTip": "AirTravel\\Models\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Models\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Models\\Entities\\Ticket.cs",
+              "RelativeToolTip": "AirTravel\\Models\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddTicket.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\AddTicket.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\AddTicket.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\AddTicket.xaml",
+              "RelativeToolTip": "AirTravel\\Views\\AddTicket.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T18:55:44.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AirTravel\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "AirTravel\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwCwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:44.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlightUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\FlightUserWindow.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\FlightUserWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\AirTravel \u2014 \u043A\u043E\u043F\u0438\u044F\\AirTravel\\Views\\FlightUserWindow.xaml",
+              "RelativeToolTip": "AirTravel\\Views\\FlightUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T18:55:44.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
