@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AirTravel.Models
+namespace Mvvm.Models
 {
     public abstract class NotifyProperty : INotifyPropertyChanged
     {

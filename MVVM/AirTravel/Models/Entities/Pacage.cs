@@ -1,5 +1,5 @@
-﻿using AirTravel;
-using AirTravel.Models;
+﻿using Mvvm;
+using Mvvm.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,4 @@
-﻿using AirTravel.Models.Entities;
+﻿using Mvvm.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 using System;
@@ -7,16 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AirTravel.Models
+namespace Mvvm.Models
 {
     public class Database : DbContext
     {
-        public DbSet<JetType> JetTypes { get; set; } = null!;
-        public DbSet<Flight> Flights { get; set; } = null!;
-		public DbSet<User> Users { get; set; } = null!;
-		public DbSet<Role> Roles { get; set; } = null!;
-		public DbSet<ComfortClass> ComfortClasses { get; set; } = null!;
-		public DbSet<Ticket> Tickets { get; set; } = null!;
+        public DbSet<Car> Cars { get; set; } = null!;
+        public DbSet<Generation> Generations { get; set; } = null!;
+		public DbSet<Mark> Marks { get; set; } = null!;
+		public DbSet<ModelCar> ModelCars { get; set; } = null!;
+		public DbSet<Pacage> Pacages { get; set; } = null!;
 
 
 
@@ -31,21 +30,19 @@ namespace AirTravel.Models
                 instance.Database.EnsureDeleted();
                 var exists = instance.Database.EnsureCreated();
 
-                instance.JetTypes.Load();
-                instance.Flights.Load();
-				instance.Users.Load();
-                instance.Roles.Load();
-				instance.ComfortClasses.Load();
-				instance.Tickets.Load();
-
+                instance.Cars.Load();
+                instance.Generations.Load();
+				instance.Marks.Load();
+                instance.ModelCars.Load();
+				instance.Pacages.Load();
 
 				if (exists)
-                    instance.Flights.AddRange(FlightData);
-				    instance.JetTypes.AddRange(JetTypeData);
-				    instance.Roles.AddRange(RoleData);
-				    instance.Users.AddRange(UserData);
-					instance.ComfortClasses.AddRange(ComfortClasseData);
-					instance.Tickets.AddRange(TicketData);
+                    instance.Cars.AddRange(FlightData);
+				    instance.Generations.AddRange(JetTypeData);
+				    instance.Marks.AddRange(RoleData);
+				    instance.ModelCars.AddRange(UserData);
+					instance.Pacages.AddRange(ComfortClasseData);
+					
 
 				instance.SaveChanges();
             }

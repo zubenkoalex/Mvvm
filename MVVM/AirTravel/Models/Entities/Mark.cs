@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace Mvvm.Models.Entities
 {
-    public class ModelCar : NotifyProperty
+    public class Mark : NotifyProperty
     {
         private int _id;
 
-        private string _NameModelCar = null!;
+        private string _NameMark = null!;
 
-        private Generation _GenID { get; set; } = null!;
+        private ModelCar _ModelID { get; set; } = null!;
 
         public int Id
         {
@@ -28,27 +28,27 @@ namespace Mvvm.Models.Entities
             }
         }
 
-        public string NameModelCar
+        public string NameMark
         {
-            get => _NameModelCar;
+            get => _NameMark;
             set
             {
-                if (_NameModelCar != value)
+                if (_NameMark != value)
                 {
-                    _NameModelCar = value;
+                    _NameMark = value;
                     OnPropertyChanged();
                 }
             }
         }
 
-        public Generation GenID
+        public ModelCar ModelID       
         {
-            get => _GenID;
+            get => _ModelID;
             set
             {
-                if (_GenID != value)
+                if (_ModelID != value)
                 {
-                    _GenID = value;
+                    _ModelID = value;
                     OnPropertyChanged();
                 }
             }
