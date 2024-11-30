@@ -1,5 +1,5 @@
 ﻿Mvvm
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\App.xaml
 1-831128615
 
-20686674133
+18-1911793352
 231915420059
 Views\Login.xaml;
 
-False
+True
 

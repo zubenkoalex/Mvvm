@@ -12,21 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace AirTravel.Views
+namespace Mvvm.Views
 {
-	/// <summary>
-	/// Логика взаимодействия для AddTicket.xaml
-	/// </summary>
-	public partial class AddTicket : Window
-	{
-		public AddTicket()
-		{
-			InitializeComponent();
-		}
-
-		private void Button_Click(object sender, RoutedEventArgs e)
-		{
-			DialogResult = true;
-		}
+    /// <summary>
+    /// Логика взаимодействия для Login.xaml
+    /// </summary>
+    public partial class Login : Window
+    {
+        public Login()
+        {
+            InitializeComponent();
+        }
     }
 }

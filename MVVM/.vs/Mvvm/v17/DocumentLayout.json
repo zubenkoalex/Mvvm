@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\mvvm\\airtravel\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|solutionrelative:airtravel\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +55,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\Login.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\Login.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\Login.xaml",
+              "RelativeToolTip": "AirTravel\\Views\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-30T09:07:01.87Z",
+              "EditorCaption": ""
             }
           ]
         }
