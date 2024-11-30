@@ -16,10 +16,10 @@ namespace Mvvm.Models.Entities
 
         private int _Price;
 
-        private DateOnly? _ReleaseYear;
+        private int _ReleaseYear;
         private Pacage _PacID { get; set; } = null!;
 
-        //picture
+        private string _Picture = null!;
 
         public int Id
         {
@@ -73,7 +73,7 @@ namespace Mvvm.Models.Entities
             }
         }
         
-        public DateOnly? ReleaseYear
+        public int ReleaseYear
         {
             get => _ReleaseYear;
             set
@@ -94,6 +94,19 @@ namespace Mvvm.Models.Entities
                 if (_PacID != value)
                 {
                     _PacID = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        public string Picture
+        {
+            get => _Picture;
+            set
+            {
+                if (_Picture != value)
+                {
+                    _Picture = value;
                     OnPropertyChanged();
                 }
             }
