@@ -56,10 +56,10 @@ namespace Mvvm.Models
         static List<Pacage> PacageData = new()
         {
             new Pacage() {Id=1, FuelType="бензин", EngineVolume="1.9", EnginePower = 118, KPPType="МКПП", DriveType="задний",CallType="Седан",CallColor="Черный", Rudder="левый",NamePacage="318iMT"},
-             new Pacage() {Id=2, FuelType="бензин", EngineVolume="2.2", EnginePower = 170, KPPType="АКПП", DriveType="задний",CallType="Седан",CallColor="Серебристый", Rudder="левый",NamePacage="320iAT"},
-              new Pacage() {Id=3, FuelType="бензин", EngineVolume="4.4", EnginePower = 560, KPPType="робот", DriveType="задний",CallType="Седан",CallColor="Синий", Rudder="левый",NamePacage="4.4 AMT"},
-               new Pacage() {Id=4, FuelType="дизель", EngineVolume="2.0", EnginePower = 190, KPPType="робот", DriveType="полный",CallType="Седан",CallColor="Красный", Rudder="левый",NamePacage="2.0 TDI"},
-               new Pacage() {Id=5, FuelType="бензин", EngineVolume="3.0", EnginePower = 225, KPPType="МКПП", DriveType="задний",CallType="Седан",CallColor="Серый", Rudder="Правый",NamePacage="3.0 SZ"}
+            new Pacage() {Id=2, FuelType="бензин", EngineVolume="2.2", EnginePower = 170, KPPType="АКПП", DriveType="задний",CallType="Седан",CallColor="Серебристый", Rudder="левый",NamePacage="320iAT"},
+            new Pacage() {Id=3, FuelType="бензин", EngineVolume="4.4", EnginePower = 560, KPPType="робот", DriveType="задний",CallType="Седан",CallColor="Синий", Rudder="левый",NamePacage="4.4 AMT"},
+            new Pacage() {Id=4, FuelType="дизель", EngineVolume="2.0", EnginePower = 190, KPPType="робот", DriveType="полный",CallType="Седан",CallColor="Красный", Rudder="левый",NamePacage="2.0 TDI"},
+            new Pacage() {Id=5, FuelType="бензин", EngineVolume="3.0", EnginePower = 225, KPPType="МКПП", DriveType="задний",CallType="Седан",CallColor="Серый", Rudder="Правый",NamePacage="3.0 SZ"}
         };
 
         static List<Generation> GenerationData = new()
@@ -95,11 +95,11 @@ namespace Mvvm.Models
 
         static List<Car> CarData = new()
         {
-            new Car() {Id = 1, MarkID = MarkData[1], Mileage = 184000,Price=2030000,ReleaseYear=2009,PacID=PacageData[1], Picture ="" },
-			new Car() {Id = 2, MarkID = MarkData[1], Mileage = 84000,Price=2500000,ReleaseYear=2012,PacID=PacageData[2], Picture ="" },
-            new Car() {Id = 3, MarkID = MarkData[2], Mileage = 15000,Price=4000000,ReleaseYear=2019,PacID=PacageData[3], Picture ="" },
-            new Car() {Id = 4, MarkID = MarkData[3], Mileage = 44000,Price=3420000,ReleaseYear=2016,PacID=PacageData[4], Picture ="" },
-            new Car() {Id = 5, MarkID = MarkData[4], Mileage = 600000,Price=1500000,ReleaseYear=1996,PacID=PacageData[5], Picture ="" },
+            new Car() {Id = 1, MarkID = MarkData[1], Mileage = 184000,Price=2030000,ReleaseYear=2009,PacID=PacageData[1], Picture ="C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Пикчи\\3series_chorni.jpeg"},
+			new Car() {Id = 2, MarkID = MarkData[1], Mileage = 84000,Price=2500000,ReleaseYear=2012,PacID=PacageData[2], Picture ="C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Пикчи\\3series_serai.jpg"},
+            new Car() {Id = 3, MarkID = MarkData[2], Mileage = 15000,Price=4000000,ReleaseYear=2019,PacID=PacageData[3], Picture ="C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Пикчи\\a5.jpeg"},
+            new Car() {Id = 4, MarkID = MarkData[3], Mileage = 44000,Price=3420000,ReleaseYear=2016,PacID=PacageData[4], Picture ="C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Пикчи\\m5.jpeg"},
+            new Car() {Id = 5, MarkID = MarkData[4], Mileage = 600000,Price=1500000,ReleaseYear=1996,PacID=PacageData[5], Picture ="C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Пикчи\\supra.jpeg"},
         };
 
         static List<Role> RoleData = new()
@@ -108,7 +108,5 @@ namespace Mvvm.Models
             new Role() {Id=2, Logins="salfetka",Pass="228", Roles = "user"},
             new Role() {Id=3, Logins="pedro",Pass="1337", Roles = "user"},
         };
-
-	
 	}
 }
