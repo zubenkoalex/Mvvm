@@ -2,7 +2,6 @@
 using Mvvm.Models;
 using System.Collections.ObjectModel;
 using Mvvm.Views;
-using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore;
 
 
