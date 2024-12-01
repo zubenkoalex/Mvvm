@@ -4,9 +4,45 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mvvm.Views"
+        xmlns:vm="clr-namespace:Mvvm.ViewModels"
         mc:Ignorable="d"
-        Title="CarUserWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="FlightUserWindow" Height="451" Width="1397">
+
+    <!--<Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>-->
+
+    <Grid Margin="0,0,0,6">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0"/>
+        </Grid.RowDefinitions>
+        <DataGrid ItemsSource="{Binding Car}" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Автомобиль_ID" Binding='{Binding Car.Id}' Width="auto"/>
+                <DataGridTextColumn Header="Марка" Binding='{Binding Mark.NameMark}' Width="auto"/>
+                <DataGridTextColumn Header="Модель" Binding='{Binding ModelCar.NameModelCar}' Width="auto"/>
+                <DataGridTextColumn Header="Поколение" Binding='{Binding Generation.NameGeneration}' Width="auto"/>
+                <DataGridTextColumn Header="Тип топлива" Binding='{Binding Pacage.FuelType}' Width="auto"/>
+                <DataGridTextColumn Header="Объем двигателя" Binding='{Binding Pacage.EngineVolume}' Width="auto"/>
+                <DataGridTextColumn Header="Мощность двигателя" Binding='{Binding Pacage.EnginePower}' Width="auto"/>
+                <DataGridTextColumn Header="Тип КПП" Binding='{Binding Pacage.KPPType}' Width="auto"/>
+                <DataGridTextColumn Header="Тип привода" Binding='{Binding Pacage.DriveType}' Width="auto"/>
+                <DataGridTextColumn Header="Тип кузова" Binding='{Binding Pacage.CallType}' Width="auto"/>
+                <DataGridTextColumn Header="Цвет кузова" Binding='{Binding Pacage.CallColor}' Width="auto"/>
+                <DataGridTextColumn Header="Руль" Binding='{Binding Pacage.Rudder}' Width="auto"/>
+                <DataGridTextColumn Header="Название комплектации" Binding='{Binding Pacage.NamePacage}' Width="auto"/>
+                <DataGridTextColumn Header="Пробег" Binding='{Binding Car.Mileage}' Width="auto"/>
+                <DataGridTextColumn Header="Цена" Binding='{Binding Car.Price}' Width="auto"/>
+                <DataGridTextColumn Header="Год выпуска" Binding='{Binding Car.ReleaseYear}' Width="auto"/>
+                <DataGridTemplateColumn Header="Картинка">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Car.Picture}" Stretch="Uniform" Width="100" Height="100"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>
