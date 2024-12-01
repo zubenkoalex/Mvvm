@@ -1,9 +1,0 @@
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\Mvvm.csproj.AssemblyReference.cache
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\Views\AddCarWindow.g.cs
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\Views\CarUserWindow.g.cs
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\Views\Login.g.cs
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\Views\MainWindow1.g.cs
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\Mvvm_MarkupCompile.cache
-C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\obj\Debug\net8.0-windows\Mvvm_MarkupCompile.lref

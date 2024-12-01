@@ -7,16 +7,18 @@
         xmlns:vm="clr-namespace:Mvvm.ViewModels"
         
         mc:Ignorable="d"
-        Title="AddCar" Height="450" Width="800">
+        Title="AddCar" Height="480" Width="1042">
+    
     <Window.DataContext>
         <vm:AddCarViewModel/>
     </Window.DataContext>
+    
     <Grid  Margin="50,50,50,50">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="180"/>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="150"/>
-            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="219*"/>
+            <ColumnDefinition Width="193"/>
+            <ColumnDefinition Width="350*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -27,30 +29,50 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
         </Grid.RowDefinitions>
 
 
-        <TextBlock Text="Тип самолёта" Grid.Row="0" Grid.Column="0" FontFamily="Arial Black"/>
-        <TextBlock Text="Пункт прибытия" Grid.Row="1" Grid.Column="0" FontFamily="Arial Black"/>
-        <TextBlock Text="Пункт отправления" Grid.Row="2" Grid.Column="0" FontFamily="Arial Black"/>
-        <TextBlock Text="Время отправления" Grid.Row="1" Grid.Column="2" FontFamily="Arial Black"/>
-        <TextBlock Text="Время прибытия" Grid.Row="2" Grid.Column="2" FontFamily="Arial Black"/>
-        <TextBlock Text="Класс комфортности" Grid.Row="4" Grid.Column="0" FontFamily="Arial Black"/>
-        <TextBlock Text="Пассажир" Grid.Row="5" Grid.Column="0" FontFamily="Arial Black"/>
-        <TextBlock Text="Стоимость билета" Grid.Row="6" Grid.Column="0" FontFamily="Arial Black" Background="#FFCFE9E7"/>
+        <TextBlock Text="ID" Grid.Row="0" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="14"/>
+        <TextBlock Text="Марка" Grid.Row="1" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="43"/>
+        <TextBlock Text="Модель" Grid.Row="2" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="51"/>
+        <TextBlock Text="Поколение" Grid.Row="3" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="75"/>
+        <TextBlock Text="Тип топлива" Grid.Row="4" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="84"/>
+        <TextBlock Text="Объем двигателя" Grid.Row="5"  Grid.Column="0" FontFamily="Arial Black" Height="14" Width="129"/>
+        <TextBlock Text="Мощность двигателя" Grid.Row="6" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="153"/>
+        <TextBlock Text="Тип КПП" Grid.Row="7" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="84"/>
+        <TextBlock Text="Тип привода" Grid.Row="8" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="97"/>
+        <TextBlock Text="Тип кузова" Grid.Row="9" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="87"/>
+        <TextBlock Text="Цвет кузова" Grid.Row="10" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="86"/>
+        <TextBlock Text="Руль" Grid.Row="11" Grid.Column="0" FontFamily="Arial Black" Height="14" Width="75"/>
+        <TextBlock Text="Название комплектации" Grid.Row="0" Grid.Column="2" FontFamily="Arial Black" Height="14" Width="171"/>
+        <TextBlock Text="Пробег" Grid.Row="1"  Grid.Column="2" FontFamily="Arial Black" Height="14" Width="132"/>
+        <TextBlock Text="Цена" Grid.Row="2" Grid.Column="2" FontFamily="Arial Black" Height="14" Width="75"/>
+        <TextBlock Text="Год выпуска" Grid.Row="3" Grid.Column="2" FontFamily="Arial Black" Height="14" Width="171"/>
+        <TextBlock Text="Картинка" Grid.Row="4"  Grid.Column="2" FontFamily="Arial Black" Height="14" Width="132"/>
 
-        <TextBlock Text ="{Binding Ticket.Flight.JetType.Name.}" Grid.Row="0" Grid.Column="1" x:Name="ComboJetType"  Width="150"  HorizontalAlignment="Left"/>
-        <TextBlock Text ="{Binding Ticket.Flight.Departure}" Grid.Row="1" Grid.Column="1" Width="270"  HorizontalAlignment="Left"/>
-        <TextBlock Text ="{Binding  Ticket.Flight.Arrival}" Grid.Row="2" Grid.Column="1" Width="270"  HorizontalAlignment="Left"/>
-        <TextBlock Text ="{Binding  Ticket.Flight.DepartureTime}" Grid.Row="1" Grid.Column="3" Width="270"  HorizontalAlignment="Left"/>
-        <TextBlock Text ="{Binding  Ticket.Flight.ArrivalTime}" Grid.Row="2" Grid.Column="3" Width="270"  HorizontalAlignment="Left"/>
+        <TextBox Text ="{Binding Car.Id}" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Mark.NameMark}" Grid.Row="1" Grid.Column="1" Height="16" HorizontalAlignment="Stretch" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Modelcar.NameModelCar}" Grid.Row="2" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Generation.NameGeneration}" Grid.Row="3" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.FuelType}" Grid.Row="4" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.EngineVolume}" Grid.Row="5" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.EnginePower}" Grid.Row="6" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.KPPType}" Grid.Row="7" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.DriveType}" Grid.Row="8" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.CallType}" Grid.Row="9" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.CallColor}" Grid.Row="10" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.Rudder}" Grid.Row="11" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Pacage.NamePacage}" Grid.Column="3" Height="16" Margin="0,0,141,0"/>
+        <TextBox Text ="{Binding Car.Mileage}" Grid.Row="1" Grid.Column="3" Height="16" Margin="0,0,141,0"/>
+        <TextBox Text ="{Binding Car.Price}" Grid.Row="2" Grid.Column="3" Height="16" Margin="0,0,141,0"/>
+        <TextBox Text ="{Binding Car.Picture}" Grid.Row="3" Grid.Column="3" Height="16" Margin="0,0,141,0"/>
 
-        <ComboBox ItemsSource="{Binding ComfortClasses}" SelectedItem="{Binding Ticket.ComfortClass}" Grid.Row="4" Grid.Column="1"  DisplayMemberPath="Name" Width="150"  HorizontalAlignment="Left"/>
-        <ComboBox ItemsSource="{Binding Users}" SelectedItem="{Binding Ticket.User}" Grid.Row="5" Grid.Column="1"  DisplayMemberPath="FullName" Width="150"  HorizontalAlignment="Left"/>
-        <TextBox  Grid.Row="6" Grid.Column="1" Width="150"  HorizontalAlignment="Left" />
 
-        <Button Content="Расчитать" Grid.Row="6" Grid.Column="3"  HorizontalAlignment="Center"  VerticalAlignment="Bottom" ></Button>
-        <Button Content="Оформить" Grid.Row="7" Grid.Column="3"  Click ="Button_Click"  HorizontalAlignment="Center"  VerticalAlignment="Bottom" ></Button>
 
     </Grid>
 </Window>

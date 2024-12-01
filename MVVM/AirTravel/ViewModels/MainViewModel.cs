@@ -30,15 +30,15 @@ namespace Mvvm.ViewModels
 		{
 			var vm = new AddCarViewModel();
 			if (new AddCarViewModel { DataContext = vm}.ShowDialog() != true) return;
-			db.Cars.Add(vm.car);
+			db.Cars.Add(vm.Car);
 			db.SaveChanges();
 			OnPropertyChanged(nameof(Car));
 		}
 		
 		public void Edit(object obj) {
-			var vm = new AddCarViewModel(){car = (Car)obj};
+			var vm = new AddCarViewModel(){Car = (Car)obj};
 			if (new AddCarViewModel { DataContext = vm }.ShowDialog() != true) return;
-			db.Entry(vm.car).State = EntityState.Modified;
+			db.Entry(vm.Car).State = EntityState.Modified;
 			db.SaveChanges();
 			OnPropertyChanged(nameof(Car));
 		}

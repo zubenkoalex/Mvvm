@@ -14,11 +14,11 @@ namespace Mvvm.ViewModels
         public ObservableCollection<Car> Cars { get => db.Cars.Local.ToObservableCollection(); }
         public ObservableCollection<User> Users { get => db.Users.Local.ToObservableCollection(); }
 
-		public Car car { get; set; } = new Car();
-        public Mark mark { get; set; } = new Mark();
-        public ModelCar modelcar { get; set; } = new ModelCar();
-        public Generation generation { get; set; } = new Generation();
-        public Pacage pacage { get; set; } = new Pacage();
+		public Car Car { get; set; } = new Car();
+        public Mark Mark { get; set; } = new Mark();
+        public ModelCar Modelcar { get; set; } = new ModelCar();
+        public Generation Generation { get; set; } = new Generation();
+        public Pacage Pacage { get; set; } = new Pacage();
        
 	}
 }
