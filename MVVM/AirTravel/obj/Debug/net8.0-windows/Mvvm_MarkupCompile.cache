@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Александр\Desktop\Учеба\Дувалин Курсач\MVVM\AirTravel\App.xaml
-1-831128615
+4-1892202587
 
-18-1911793352
+201636851008
 231915420059
-Views\Login.xaml;
+Views\AddCarWindow.xaml;Views\CarUserWindow.xaml;Views\Login.xaml;Views\MainWindow1.xaml;
 
 True
 

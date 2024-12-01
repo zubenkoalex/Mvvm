@@ -1,70 +1,55 @@
-﻿using AirTravel.Models.Entities;
-using AirTravel.Models;
-using System;
-using System.Collections.Generic;
+﻿using Mvvm.Models.Entities;
+using Mvvm.Models;
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using AirTravel.Views;
+using Mvvm.Views;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace AirTravel.ViewModels
+namespace Mvvm.ViewModels
 {
 	public class MainViewModel : NotifyProperty
 	{
 		Database db = Database.getInstance();
-		public ObservableCollection<Flight> Flights { get => db.Flights.Local.ToObservableCollection(); }
-		public ObservableCollection<Ticket> Tickets { get => db.Tickets.Local.ToObservableCollection(); }
+		public ObservableCollection<Car> Cars { get => db.Cars.Local.ToObservableCollection(); }
+
 
 		public MainViewModel()
 		{
 			AddCommand = new(Add);
 			EditCommand = new(Edit);
 			DeleteCommand = new(Delete);
-			AddTicketCommand = new(AddTicket);
-
 		}
 
 		public RelayCommand AddCommand { get; set; }
 		public RelayCommand EditCommand { get; set; }
 		public RelayCommand DeleteCommand { get; set; }
-		public RelayCommand AddTicketCommand { get; set; }
 
 
 		void Add(object obj)
 		{
-			var vm = new FlightAddEditViewModel();
-			if (new FlightAddEditWindow { DataContext = vm}.ShowDialog() != true) return;
-			db.Flights.Add(vm.Flight);
+			var vm = new AddCarViewModel();
+			if (new AddCarViewModel { DataContext = vm}.ShowDialog() != true) return;
+			db.Cars.Add(vm.car);
 			db.SaveChanges();
-			OnPropertyChanged(nameof(Flights));
+			OnPropertyChanged(nameof(Car));
 		}
 		
 		public void Edit(object obj) {
-			var vm = new FlightAddEditViewModel(){Flight = (Flight)obj};
-			if (new FlightAddEditWindow { DataContext = vm }.ShowDialog() != true) return;
-			db.Entry(vm.Flight).State = EntityState.Modified;
+			var vm = new AddCarViewModel(){car = (Car)obj};
+			if (new AddCarViewModel { DataContext = vm }.ShowDialog() != true) return;
+			db.Entry(vm.car).State = EntityState.Modified;
 			db.SaveChanges();
-			OnPropertyChanged(nameof(Flights));
+			OnPropertyChanged(nameof(Car));
 		}
 		public void Delete(object obj) {
-			db.Flights.Remove((Flight)obj);
+			db.Cars.Remove((Car)obj);
 			db.SaveChanges();
-			OnPropertyChanged(nameof(Flights));
+			OnPropertyChanged(nameof(Car));
 		}
 
 
-		void AddTicket(object obj)
-		{
-			var vm = new AddTicketViewModel() { Ticket = new Ticket() { Flight = (Flight)obj } };
-			if (new AddTicket { DataContext = vm }.ShowDialog() != true) return;
-			db.Tickets.Add(vm.Ticket);
-			db.SaveChanges();
-			OnPropertyChanged(nameof(Tickets));
-		}
+		
 
 	}
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mvvm.Models.Entities
 {
-    public class Role : NotifyProperty
+    public class User : NotifyProperty
     {
         private int _id;
 

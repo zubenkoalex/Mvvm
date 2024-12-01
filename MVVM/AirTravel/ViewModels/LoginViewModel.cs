@@ -1,15 +1,8 @@
-﻿using AirTravel.Models;
-using AirTravel.Views;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Mvvm.Models;
+using Mvvm.Views;
 using System.Windows;
 
-
-
-namespace AirTravel.ViewModels
+namespace Mvvm.ViewModels
 {
 	public class LoginViewModel
 	{
@@ -24,10 +17,10 @@ namespace AirTravel.ViewModels
 		public RelayCommand LoginCommand { get; set; }
 		void LogIn(object o)
 		{
-			var u = db.Users.Where(x => x.Login == Login && x.Password == Password).FirstOrDefault();
+			var u = db.Users.Where(x => x.Logins == Login && x.Pass == Password).FirstOrDefault();
 			if (u != null)
 			{
-				if (u.Role.Name == "Admin" )
+				if (u.Roles == "Admin" )
 				{
 					var w = new MainWindow();
 					w.Show();
@@ -36,7 +29,7 @@ namespace AirTravel.ViewModels
 				}
 				else
 				{
-					var w = new FlightUserWindow() { DataContext = new FlightUserViewModel() };
+					var w = new CarUserWindow() { DataContext = new CarUserViewModel() };
 					w.Show();
 					Application.Current.MainWindow.Close();
 					Application.Current.MainWindow = w;

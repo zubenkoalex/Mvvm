@@ -17,7 +17,7 @@ namespace Mvvm.Models
 		public DbSet<ModelCar> ModelCars { get; set; } = null!;
 		public DbSet<Pacage> Pacages { get; set; } = null!;
 
-        public DbSet<Role> Roles { get; set; } = null!;
+        public DbSet<User> Users { get; set; } = null!;
 
 
 		private static Database? instance;
@@ -34,7 +34,7 @@ namespace Mvvm.Models
                 instance.ModelCars.Load();
                 instance.Marks.Load();
                 instance.Cars.Load();
-                instance.Roles.Load();
+                instance.Users.Load();
 
 
                 if (exists)
@@ -43,7 +43,7 @@ namespace Mvvm.Models
                     instance.ModelCars.AddRange(ModelCarData);
                     instance.Marks.AddRange(MarkData);
                     instance.Cars.AddRange(CarData);
-                    instance.Roles.AddRange(RoleData);
+                    instance.Users.AddRange(UserData);
 				instance.SaveChanges();
             }
             return instance;
@@ -102,11 +102,11 @@ namespace Mvvm.Models
             new Car() {Id = 5, MarkID = MarkData[4], Mileage = 600000,Price=1500000,ReleaseYear=1996,PacID=PacageData[5], Picture ="C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Пикчи\\supra.jpeg"},
         };
 
-        static List<Role> RoleData = new()
+        static List<User> UserData = new()
         {
-            new Role() {Id=1, Logins="admin",Pass="admin", Roles = "admin"},
-            new Role() {Id=2, Logins="salfetka",Pass="228", Roles = "user"},
-            new Role() {Id=3, Logins="pedro",Pass="1337", Roles = "user"},
+            new User() {Id=1, Logins="admin",Pass="admin", Roles = "admin"},
+            new User() {Id=2, Logins="salfetka",Pass="228", Roles = "user"},
+            new User() {Id=3, Logins="pedro",Pass="1337", Roles = "user"},
         };
 	}
 }

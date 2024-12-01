@@ -4,17 +4,15 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Mvvm.Views"
-        xmlns:vm="clr-namespace:AirTravel.ViewModels"
+        xmlns:vm="clr-namespace:Mvvm.ViewModels"
         mc:Ignorable="d"
         Title="Авторизация" Height="328" Width="456">
     <Window.Background>
         <ImageBrush ImageSource="/Views/MV5BMTcyMzk4NTI0N15BMl5BanBnXkFtZTgwODA3MTcxOTE@._V1_.jpg"/>
     </Window.Background>
-    <!--<Window.DataContext>
-       -->
-    <!--<vm:LoginViewModel/>-->
-    <!--
-    </Window.DataContext>-->
+    <Window.DataContext>
+        <vm:LoginViewModel/>
+    </Window.DataContext>
 
     <Grid  Margin="50,50,0,0">
         <Grid.Background>
