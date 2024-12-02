@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\mvvm\\airtravel\\views\\mainwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|solutionrelative:airtravel\\views\\mainwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\mvvm\\airtravel\\views\\addcarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|solutionrelative:airtravel\\views\\addcarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\mvvm\\airtravel\\views\\addcarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|solutionrelative:airtravel\\views\\addcarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\mvvm\\airtravel\\views\\mainwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|solutionrelative:airtravel\\views\\mainwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\mvvm\\airtravel\\views\\caruserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|solutionrelative:airtravel\\views\\caruserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0443\u0432\u0430\u043B\u0438\u043D \u043A\u0443\u0440\u0441\u0430\u0447\\mvvm\\airtravel\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53BD3C75-28A9-4F6F-8524-3479F5BC1F61}|AirTravel\\Mvvm.csproj|solutionrelative:airtravel\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +70,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCarWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\AddCarWindow.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\AddCarWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\AddCarWindow.xaml*",
+              "RelativeToolTip": "AirTravel\\Views\\AddCarWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T05:02:23.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\MainWindow1.xaml.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\MainWindow1.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\MainWindow1.xaml.cs",
+              "RelativeToolTip": "AirTravel\\Views\\MainWindow1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:57:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddCarWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\AddCarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\AddCarWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\AddCarWindow.xaml.cs",
+              "RelativeToolTip": "AirTravel\\Views\\AddCarWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:47:46.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\Login.xaml",
+              "RelativeDocumentMoniker": "AirTravel\\Views\\Login.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\Login.xaml",
+              "RelativeToolTip": "AirTravel\\Views\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T03:32:55.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CarUserWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\CarUserWindow.xaml",
               "RelativeDocumentMoniker": "AirTravel\\Views\\CarUserWindow.xaml",
@@ -66,18 +128,6 @@
               "RelativeToolTip": "AirTravel\\Views\\CarUserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T17:41:22.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow1.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\MainWindow1.xaml",
-              "RelativeDocumentMoniker": "AirTravel\\Views\\MainWindow1.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\MainWindow1.xaml",
-              "RelativeToolTip": "AirTravel\\Views\\MainWindow1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T14:04:33.253Z",
               "EditorCaption": ""
             }
           ]

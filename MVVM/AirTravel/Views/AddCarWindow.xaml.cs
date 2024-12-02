@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace Mvvm.Views
+namespace MVVM.Views
 {
     /// <summary>
     /// Логика взаимодействия для AddCarView.xaml
@@ -23,5 +23,7 @@ namespace Mvvm.Views
         {
             InitializeComponent();
         }
+
+        
     }
 }
