@@ -7,14 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Duvalin.Views;
-using Duvalin.ViewModels;
+using Duvalin.Models;
 
-namespace Duvalin.Models
+namespace Duvalin.ViewModels
 {
     public class MainViewModel : NotifyProperty
     {
         Database db = Database.getInstance();
         public ObservableCollection<Car> Cars { get => db.Cars.Local.ToObservableCollection(); }
+
+        public ObservableCollection<Pacage> Pacages { get => db.Pacages.Local.ToObservableCollection(); }
+
 
 
         public MainViewModel()
@@ -33,20 +36,20 @@ namespace Duvalin.Models
         {
             var vm = new AddCarViewModel();
             if (new AddCarWindow { DataContext = vm }.ShowDialog() != true) return;
-            db.Cars.Add(vm.Cars);
+            db.Cars.Add(vm.Car);
             db.SaveChanges();
             OnPropertyChanged(nameof(Cars));
         }
 
         public void Edit(object obj)
         {
-            var vm = new AddCarViewModel() { Cars = (Car)obj };
+            var vm = new AddCarViewModel() { Car = (Car)obj };
             if (new AddCarWindow { DataContext = vm }.ShowDialog() != true) return;
             db.Entry(vm.Car).State = EntityState.Modified;
             db.SaveChanges();
             OnPropertyChanged(nameof(Cars));
         }
-        
+
         public void Delete(object obj)
         {
             db.Cars.Remove((Car)obj);

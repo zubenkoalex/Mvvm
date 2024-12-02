@@ -20,9 +20,9 @@
         <DataGrid ItemsSource="{Binding Cars}" AutoGenerateColumns="False" IsReadOnly="True">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Автомобиль_ID" Binding='{Binding Car.Id}' Width="auto"/>
-                <DataGridTextColumn Header="Марка" Binding='{Binding Mark.NameMark}' Width="auto"/>
-                <DataGridTextColumn Header="Модель" Binding='{Binding ModelCar.NameModelCar}' Width="auto"/>
-                <DataGridTextColumn Header="Поколение" Binding='{Binding Generation.NameGeneration}' Width="auto"/>
+                <DataGridTextColumn Header="Марка" Binding='{Binding Car.Mark}' Width="auto"/>
+                <DataGridTextColumn Header="Модель" Binding='{Binding Car.ModelCar}' Width="auto"/>
+                <DataGridTextColumn Header="Поколение" Binding='{Binding Car.Generation}' Width="auto"/>
                 <DataGridTextColumn Header="Тип топлива" Binding='{Binding Pacage.FuelType}' Width="auto"/>
                 <DataGridTextColumn Header="Объем двигателя" Binding='{Binding Pacage.EngineVolume}' Width="auto"/>
                 <DataGridTextColumn Header="Мощность двигателя" Binding='{Binding Pacage.EnginePower}' Width="auto"/>

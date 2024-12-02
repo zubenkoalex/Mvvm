@@ -2814,11 +2814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Александр\\Desktop\\Учеба\\Duvalin\\Duvalin.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Duvalin\\Duvalin.csproj",
       "projectName": "Duvalin",
-      "projectPath": "C:\\Users\\Александр\\Desktop\\Учеба\\Duvalin\\Duvalin.csproj",
+      "projectPath": "C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Duvalin\\Duvalin.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Александр\\Desktop\\Учеба\\Duvalin\\obj\\",
+      "outputPath": "C:\\Users\\Александр\\Desktop\\Учеба\\Дувалин Курсач\\Duvalin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

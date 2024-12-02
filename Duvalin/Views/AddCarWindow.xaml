@@ -56,9 +56,9 @@
         <TextBlock Text="Картинка" Grid.Row="4"  Grid.Column="2" FontFamily="Arial Black" Height="14" Width="132"/>
 
         <TextBox Text ="{Binding Car.Id}" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
-        <TextBox Text ="{Binding Mark.NameMark}" Grid.Row="1" Grid.Column="1" Height="16" HorizontalAlignment="Stretch" Margin="0,0,10,0"/>
-        <TextBox Text ="{Binding Modelcar.NameModelCar}" Grid.Row="2" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
-        <TextBox Text ="{Binding Generation.NameGeneration}" Grid.Row="3" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Car.Mark}" Grid.Row="1" Grid.Column="1" Height="16" HorizontalAlignment="Stretch" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Car.Modelcar}" Grid.Row="2" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Car.Generation}" Grid.Row="3" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
         <TextBox Text ="{Binding Pacage.FuelType}" Grid.Row="4" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
         <TextBox Text ="{Binding Pacage.EngineVolume}" Grid.Row="5" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
         <TextBox Text ="{Binding Pacage.EnginePower}" Grid.Row="6" Grid.Column="1" Height="16" Margin="0,0,10,0"/>

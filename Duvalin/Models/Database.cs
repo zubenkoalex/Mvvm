@@ -37,18 +37,18 @@ namespace Duvalin.Models
 
                 if (exists)
                     instance.Pacages.AddRange(PacageData);
-                instance.Generations.AddRange(GenerationData);
-                instance.ModelCars.AddRange(ModelCarData);
-                instance.Marks.AddRange(MarkData);
-                instance.Cars.AddRange(CarData);
-                instance.Users.AddRange(UserData);
-                instance.SaveChanges();
+                    instance.Generations.AddRange(GenerationData);
+                    instance.ModelCars.AddRange(ModelCarData);
+                    instance.Marks.AddRange(MarkData);
+                    instance.Cars.AddRange(CarData);
+                    instance.Users.AddRange(UserData);
+                    instance.SaveChanges();
             }
             return instance;
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=zubenkoag;Database=MVVM;Trusted_Connection=true;MultipleActiveResultSets=true;TrustServerCertificate=true;encrypt=false");
+            optionsBuilder.UseSqlServer(@"@""Server=zubenkoag;Database=MVVM;User=user1;Password=sa;Trusted_Connection=true;MultipleActiveResultSets=true;TrustServerCertificate=true;encrypt=false""");
         }
 
         static List<Pacage> PacageData = new()
