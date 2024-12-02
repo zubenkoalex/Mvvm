@@ -62,33 +62,33 @@ namespace Duvalin.Models
 
         static List<Generation> GenerationData = new()
         {
-            new Generation() {Id=1, NameGeneration = "1"},
-            new Generation() {Id=2, NameGeneration = "1 Рест"},
-            new Generation() {Id=3, NameGeneration = "2"},
-            new Generation() {Id=4, NameGeneration = "2 Рест"},
-            new Generation() {Id=5, NameGeneration = "3"},
-            new Generation() {Id=6, NameGeneration = "3 Рест"},
-            new Generation() {Id=7, NameGeneration = "4"},
-            new Generation() {Id=8, NameGeneration = "4 Рест"},
-            new Generation() {Id=9, NameGeneration = "5"},
-            new Generation() {Id=10, NameGeneration = "5 Рест"},
+            new Generation() { NameGeneration = "1"},
+            new Generation() { NameGeneration = "1 Рест"},
+            new Generation() {NameGeneration = "2"},
+            new Generation() {NameGeneration = "2 Рест"},
+            new Generation() {NameGeneration = "3"},
+            new Generation() {NameGeneration = "3 Рест"},
+            new Generation() {NameGeneration = "4"},
+            new Generation() {NameGeneration = "4 Рест"},
+            new Generation() {NameGeneration = "5"},
+            new Generation() {NameGeneration = "5 Рест"},
 
         };
 
         static List<ModelCar> ModelCarData = new()
         {
-            new ModelCar() {Id=1, NameModelCar="3-Series"},
-            new ModelCar() {Id=2, NameModelCar="M5"},
-            new ModelCar() {Id=3, NameModelCar="A5"},
-            new ModelCar() {Id=4, NameModelCar="Supra"},
-        };
+            new ModelCar() { NameModelCar="3-Series"},
+            new ModelCar() {NameModelCar="M5"},
+            new ModelCar() {NameModelCar="A5"},
+            new ModelCar() {NameModelCar="Supra"},
+        };  
 
         static List<Mark> MarkData = new()
         {
-            new Mark() {Id=1, NameMark="BMW" },
-            new Mark() {Id=2, NameMark="BMW"},
-            new Mark() {Id=3, NameMark="Audi"},
-            new Mark() {Id=4, NameMark="Toyota"},
+            new Mark() {NameMark="BMW" },
+            new Mark() {NameMark="BMW"},
+            new Mark() {NameMark="Audi"},
+            new Mark() {NameMark="Toyota"},
         };
 
         static List<Car> CarData = new()

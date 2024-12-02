@@ -57,7 +57,7 @@
 
         <TextBox Text ="{Binding Car.Id}" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
         <TextBox Text ="{Binding Car.Mark}" Grid.Row="1" Grid.Column="1" Height="16" HorizontalAlignment="Stretch" Margin="0,0,10,0"/>
-        <TextBox Text ="{Binding Car.Modelcar}" Grid.Row="2" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
+        <TextBox Text ="{Binding Car.ModelCar}" Grid.Row="2" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
         <TextBox Text ="{Binding Car.Generation}" Grid.Row="3" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
         <TextBox Text ="{Binding Pacage.FuelType}" Grid.Row="4" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
         <TextBox Text ="{Binding Pacage.EngineVolume}" Grid.Row="5" Grid.Column="1" Height="16" Margin="0,0,10,0"/>
