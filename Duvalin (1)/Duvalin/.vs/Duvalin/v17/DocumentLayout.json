@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\models\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:models\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\models\\notifyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:models\\notifyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\models\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:models\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\desktop\\\u0443\u0447\u0435\u0431\u0430\\duvalin (1)\\duvalin\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70416E42-A9A1-4A03-BD96-7B2F18B9BCFE}|Duvalin.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\Entities\\Car.cs",
+              "RelativeToolTip": "Models\\Entities\\Car.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:41:00.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Models\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\RelayCommand.cs",
+              "RelativeToolTip": "Models\\RelayCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:18:47.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotifyProperty.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\NotifyProperty.cs",
+              "RelativeDocumentMoniker": "Models\\NotifyProperty.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\NotifyProperty.cs",
+              "RelativeToolTip": "Models\\NotifyProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:18:45.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "Models\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\DbContextFactory.cs",
+              "RelativeToolTip": "Models\\DbContextFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:51:24.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDQAAAC/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:18:29.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\Database.cs",
+              "RelativeDocumentMoniker": "Models\\Database.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Models\\Database.cs",
+              "RelativeToolTip": "Models\\Database.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:51:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T07:43:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\Duvalin (1)\\Duvalin\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:31:45.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

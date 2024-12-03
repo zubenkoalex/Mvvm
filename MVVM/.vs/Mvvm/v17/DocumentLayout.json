@@ -129,8 +129,7 @@
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\CarUserWindow.xaml",
               "RelativeToolTip": "AirTravel\\Views\\CarUserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T08:44:06.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T08:44:06.819Z"
             },
             {
               "$type": "Document",
@@ -141,8 +140,7 @@
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\MainWindow1.xaml",
               "RelativeToolTip": "AirTravel\\Views\\MainWindow1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T07:40:28.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:40:28.01Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0443\u0432\u0430\u043B\u0438\u043D \u041A\u0443\u0440\u0441\u0430\u0447\\MVVM\\AirTravel\\Views\\AddCarWindow.xaml",
               "RelativeToolTip": "AirTravel\\Views\\AddCarWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T07:33:16.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:33:16.296Z"
             },
             {
               "$type": "Document",
@@ -166,8 +163,7 @@
               "RelativeToolTip": "AirTravel\\ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAADQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:31:35.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:31:35.593Z"
             },
             {
               "$type": "Document",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "AirTravel\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:30:51.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:30:51.813Z"
             },
             {
               "$type": "Document",
@@ -192,8 +187,7 @@
               "RelativeToolTip": "AirTravel\\ViewModels\\CarUserViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:29:53.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:29:53.739Z"
             },
             {
               "$type": "Document",
@@ -205,8 +199,7 @@
               "RelativeToolTip": "AirTravel\\ViewModels\\AddCarViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:21:49.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:21:49.41Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "AirTravel\\Models\\Entities\\User.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:19:33.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:19:33.175Z"
             },
             {
               "$type": "Document",
@@ -231,8 +223,7 @@
               "RelativeToolTip": "AirTravel\\Models\\Database.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:14:34.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:14:34.736Z"
             },
             {
               "$type": "Document",
@@ -244,8 +235,7 @@
               "RelativeToolTip": "AirTravel\\Models\\Entities\\Pacage.cs",
               "ViewState": "AgIAAJkAAAAAAAAAAAAAAKIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:08:37.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:08:37.404Z"
             },
             {
               "$type": "Document",
@@ -257,8 +247,7 @@
               "RelativeToolTip": "AirTravel\\Models\\Entities\\ModelCar.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:08:11.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:08:11.377Z"
             },
             {
               "$type": "Document",
@@ -270,8 +259,7 @@
               "RelativeToolTip": "AirTravel\\Models\\Entities\\Generation.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:07:28.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:07:28.139Z"
             },
             {
               "$type": "Document",
@@ -283,8 +271,7 @@
               "RelativeToolTip": "AirTravel\\Models\\Entities\\Mark.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:06:20.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:06:20.362Z"
             },
             {
               "$type": "Document",
@@ -296,8 +283,7 @@
               "RelativeToolTip": "AirTravel\\Models\\Entities\\Car.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:05:23.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:05:23.579Z"
             }
           ]
         }
