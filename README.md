@@ -1,5 +1,1 @@
-# Mvvm
-# MVVM
-# MVVM
-# MVVM
-# MVVM
+Хуй соси
